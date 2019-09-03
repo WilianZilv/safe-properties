@@ -1,6 +1,6 @@
 {
     "name": "safe-properties",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Get or call functions inside an object that might not have it",
     "main": "index.js",
     "scripts": {
