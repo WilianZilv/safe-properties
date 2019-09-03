@@ -1,0 +1,19 @@
+{
+    "name": "safe-properties",
+    "version": "1.0.0",
+    "description": "Get or call functions inside an object that might not have it",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.test.js"
+    },
+    "keywords": [
+        "optional chaining",
+        "safe property",
+        "avoid errors when accessing undefined properties"
+    ],
+    "author": "Wilian Silva",
+    "license": "ISC",
+    "repository": {
+        "url": ""
+    }
+}
